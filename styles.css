@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+}
+
+.menu {
+    display: flex;
+    background-color: #1F2937;
+    color: antiquewhite;
+    text-size-adjust: 18px;
+    padding: 20px 0;
+}
+.button {
+    align-items: center;
+    color: antiquewhite;
+    
+    
+}
+
+.header-container {
+ background-color: gold; 
+}
+
+.display-container {
+    background-color: #1F2937;
+    display: flex;
+}
+
+.gear-grid-item-one {
+  background-color:chartreuse ;
+}
+
+.gear-grid-item-two {
+    background-color: aqua;
+
+}
+
+.gear-grid-item-three {
+    background-color: aquamarine;
+}
+
+.gear-grid-item-four {
+    background-color: darkorange;
+}
+.testimonial-container {
+    background-color: #1F2937;
+}
+
+.testimonial {
+    background-color: lime;
+}
+
+.action-container {
+background-color: #1F2937;
+}
+.action-text {
+    background-color: antiquewhite;
+}
+.build-button {
+    background-color: red;
+}
+.button {
+    color: blue;
+}
+.footer-container {
+background-color: #1F2937;
+}
